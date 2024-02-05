@@ -5,6 +5,7 @@ Em meu perfil você encontrará os meus repositórios acadêmicos de programas q
 Todas as minhas informações públicas que estão aqui no GitHub.
 
 ![eukaualima](https://github-readme-stats.vercel.app/api?username=eukaualima&show_icons=true&theme=swift)
+[![GitHub Streak](https://streak-stats.demolab.com?user=eukaualima&theme=gotham&hide_border=true&border_radius=50&locale=pt_BR)](https://git.io/streak-stats)
 ## 💻 Linguagens
 Linguagens de programação que utilizo em meus repositórios.
 **__OBS:__** Conta apenas os repositórios públicos!
