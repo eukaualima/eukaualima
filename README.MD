@@ -1,6 +1,6 @@
 ## 👋 Oii, tudo bem?
 Me chamo Kauã Lima e sou apaixonado por assuntos que envolvem a programação e o mundo da tecnologia! 
-Em meu perfil você encontrará os meus repositórios acadêmicos de programas que desenvolvo para as matérias do meu curso de ABI em Computação do Instituto Federal de Educação, Ciência e Tecnologia campus Camaçari.
+Em meu perfil você encontrará os meus repositórios acadêmicos de programas que desenvolvo para as matérias do meu curso de ABI em Computação do Instituto Federal de Educação, Ciência e Tecnologia campus Camaçari e alguns projetos pessoais Open Source.
 ## 📈 Estatísticas no GitHub
 Todas as minhas informações públicas que estão aqui no GitHub.
 
@@ -13,6 +13,6 @@ Linguagens de programação que utilizo em meus repositórios.
 ![linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=eukaualima&layout=compact&langs_count=8)
 ## 🗂️ Repositórios
 Contagem de todos repositórios que possuo atualmente.
-* **25** ao todo.
-* **7** são públicos.
-* **18** são privados.
+* **29** ao todo.
+* **10** são públicos.
+* **19** são privados.
