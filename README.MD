@@ -47,7 +47,7 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Ides:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=visualstudio,sublime"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,sublime"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Outras:</td>
