@@ -1,6 +1,6 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-👋 Olá! Sou Kauã Lima, um entusiasta de programação e tecnologia. No meu perfil do GitHub, você encontrará repositórios acadêmicos com projetos que desenvolvo como parte do meu curso de ABI em Computação no Instituto Federal de Educação, Ciência e Tecnologia - Campus Camaçari. Além disso, compartilho alguns projetos pessoais Open Source que refletem minha paixão por criar e inovar no mundo digital. Sinta-se à vontade para explorar e colaborar! 🚀
+👋 Olá! Sou Kauã Lima, um entusiasta de programação e tecnologia. No meu perfil do GitHub, você encontrará repositórios acadêmicos com projetos que desenvolvo como parte do meu curso de ABI em Computação no Instituto Federal de Educação, Ciência e Tecnologia - Campus Camaçari. Além disso, compartilho alguns projetos pessoais Open Source que refletem minha paixão por criar e inovar no mundo digital.
 
   - 🔭 Atualmente estou trabalhando com Node.js.
   - 💬 Me pergunte sobre **HTML, CSS, Bootstrap, Javascript, PHP, C, Java, Node.js.**
