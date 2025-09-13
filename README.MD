@@ -9,7 +9,7 @@
 
 Bacharelando em **Ciência da Computação** pelo **Instituto Federal da Bahia (IFBA)**, sou um entusiasta de tecnologia e programação. Tenho experiência em projetos de pesquisa e extensão, com foco em desenvolvimento de software e soluções interdisciplinares.
 
-- 🔭 Atualmente estou focado em **Java** e aprimorando minhas habilidades em desenvolvimento backend.
+- 🔭 Atualmente estou focado em **React** e aprimorando minhas habilidades em desenvolvimento backend.
 - 🌱 Tenho grande interesse em projetos **Open Source** e busco constantemente novas formas de inovar.
 - 💬 Sinta-se à vontade para me perguntar sobre: **HTML, CSS, Bootstrap, JavaScript, PHP, C, Java e Node.js**.
 - 📫 Você pode me encontrar no [Instagram](https://www.instagram.com/lkauab/)!
